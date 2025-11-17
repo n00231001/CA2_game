@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/n00231001/Desktop/CA2/MOVEMENT/Content/animations/Running_Slide.uasset",
+				"C:/Users/n00231001/Desktop/CA2/MOVEMENT/Content/NewMap.umap",
+				"C:/Users/n00231001/Desktop/CA2/MOVEMENT/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/n00231001/Desktop/CA2/MOVEMENT/Content/animations/Running_Slide_Montage.uasset",
+				"C:/Users/n00231001/Desktop/CA2/MOVEMENT/Content/animations/NewAnimBlueprint.uasset",
 				"C:/Users/n00231001/Desktop/try/MOVEMENT/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/n00231001/Desktop/try/MOVEMENT/Content/Input/Actions/IA_AirDash.uasset",
 				"C:/Users/n00231001/Desktop/try/MOVEMENT/Content/Input/IMC_Default.uasset",
