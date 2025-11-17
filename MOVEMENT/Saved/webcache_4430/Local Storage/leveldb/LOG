@@ -1,2 +1,3 @@
-2025/11/17-13:10:31.381 83a8 Creating DB C:/Users/n00231001/Desktop/CA2/MOVEMENT/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2025/11/17-13:10:31.395 83a8 Reusing MANIFEST C:/Users/n00231001/Desktop/CA2/MOVEMENT/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/11/17-13:12:00.390 35d0 Reusing MANIFEST C:/Users/n00231001/Desktop/CA2/MOVEMENT/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/11/17-13:12:00.390 35d0 Recovering log #3
+2025/11/17-13:12:00.391 35d0 Reusing old log C:/Users/n00231001/Desktop/CA2/MOVEMENT/Saved/webcache_4430\Local Storage\leveldb/000003.log 
